@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS52 Workshops:  React Components
 
 ![screen shots are helpful](https://media.giphy.com/media/pyrgZQBxeWq5zx7sFQ/giphy.gif)
@@ -248,3 +249,6 @@ You are done!! Amazing!!
 ## Resources
 
 * https://ant.design/docs/react/use-with-create-react-app
+=======
+# workshopstarter
+>>>>>>> bc14b1ba5ff5d6d587ef3ebc0dfa07309c921137
