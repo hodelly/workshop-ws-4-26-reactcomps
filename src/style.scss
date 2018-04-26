@@ -5,10 +5,15 @@
 }
 .ant-carousel .slick-slide {
  text-align: center;
- height: 100px;
+ height: 100%;
+ width: 90%;
  line-height: 100%;
  background: #364d79;
  overflow: hidden;
+}
+img {
+  width: 100vw;
+  height: 70vh;
 }
 .ant-carousel .slick-slide h3 {
  color: #fff;
